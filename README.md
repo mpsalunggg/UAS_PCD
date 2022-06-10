@@ -4,7 +4,7 @@
 * Kelas     : A - Teknik Informatika
 * Dosen     : 
 
-Program Segmentasi Citra menggunakan Algoritma K-Means
+## Program Segmentasi Citra menggunakan Algoritma K-Means
 
 Berikut Link URL Image yang digunakan :
 * Gambar 1 : Mark Zuckerberg
